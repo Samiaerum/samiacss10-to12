@@ -1,0 +1,78 @@
+h1{
+    text-decoration:underline;
+    color: blueviolet;
+}
+*{
+    color: blue;
+}
+p{
+    text-transform:uppercase;
+    color:red 1;
+}
+body{
+    background-color: aqua;
+}}
+body{
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: small;
+    text-transform:lowercase;
+    
+}
+h3{
+    text-decoration:underline;
+    color: green;
+}
+.wrapper{
+    margin: 0px auto;
+width: 1024px; ;
+}
+p.logo{
+    width:1004 ;
+    text-align: center;
+    background: color 555px; ;
+}
+p.para{
+    width: 1024px;
+    float: left;
+    font-variant: small-caps;
+    line-height: 2;
+}
+p.heading{
+    width: 1024px;
+    color: 5555;
+    font-weight: bolder;
+
+}
+#designers{
+    vertical-align: middle;
+}
+I{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: LARGE;
+}
+a:link{
+    color:blue ;
+    text-decoration: none;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    color: black;
+}
+button{
+    padding: 20px;
+    display: block;
+    margin: auto;
+    font-size: medium;
+    font-weight: bold;
+}
+button:hover{
+background-color: pink;
+}
+button:active{
+    background-color: green;
+}
